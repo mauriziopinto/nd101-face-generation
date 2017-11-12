@@ -13,6 +13,9 @@ In this project, I used generative adversarial networks to generate new images o
 
 ## Sample result
 
+![sample](images/faces.png "Sample result")
+
+
 ## Instructions
 
 * clone the project
